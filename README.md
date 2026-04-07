@@ -85,4 +85,4 @@ Submit a pull request from your feature branch into develop. Tag @jahredwithanh 
 
 ## 📌 Project Status
 
-This project is in active development under the REACH Center pilot grant.
+This project is in active development under a GWU RIA pilot grant.
