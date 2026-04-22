@@ -2,8 +2,6 @@
 
 *Examine birth outcomes before and after state-level MCLs for PFAS*
 
-This project develops reproducible, data-driven workflows to analyze the effects of hurricanes on private well contamination and associated health risks. We use public datasets, electronic health records, and geospatial and econometric methods in R.
-
 ------------------------------------------------------------------------
 
 ## 📁 Project structure
